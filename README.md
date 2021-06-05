@@ -1,4 +1,4 @@
-# webapp-ansible-apache
+# webapp-ansible-apache: déploiement d'un conteneur apache à l'aide de ansible
 
 - Creation d'un cluster ( 02 serveurs : un serveur ansible debian 9 qui joue le role de node manager et un autre serveur centos 7 qui joue le role de client)
 - Creation d'un fichier webapp qui va contenir tous les fichiers du projet
